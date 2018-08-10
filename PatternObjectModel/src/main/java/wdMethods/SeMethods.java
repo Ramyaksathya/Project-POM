@@ -405,11 +405,7 @@ public class SeMethods extends Reporter implements WdMethods{
 	  //version 2  t1
 
 	  
-
 	  //version 4 testcase t2
-
-	  //version 4 testcase t1
-
 	
 
   }
