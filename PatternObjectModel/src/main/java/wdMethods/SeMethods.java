@@ -403,7 +403,11 @@ public class SeMethods extends Reporter implements WdMethods{
   public void getAlert() {
 	  //version 1
 	  //version 2
+<<<<<<< HEAD
 	  //version 5
+=======
+	  //version 4
+>>>>>>> branch 'master' of https://github.com/Ramyaksathya/Project-POM
   }
 
 
