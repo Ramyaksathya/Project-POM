@@ -403,8 +403,16 @@ public class SeMethods extends Reporter implements WdMethods{
   public void getAlert() {
 	  //version 1
 	  //version 2
+
 	  
 	  //version 4 testcase
+	
+
+  }
+  
+  public void getname()
+  {
+	  
   }
   
   
